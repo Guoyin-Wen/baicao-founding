@@ -2,12 +2,16 @@
 // @name         百草园 PT 建站时间显示
 // @namespace    https://pting.club/
 // @version      0.2.0
-// @description  在蜂巢百草园（baicao）的 PT 站条目下方显示建站时间与站龄，数据来自 ptseek.pages.dev
-// @author       you
+// @description  在蜂巢百草园（baicao）的 PT 站条目下方显示建站时间与站龄，十二大站点站名动态渐变红。数据来自 ptseek.pages.dev
+// @author       Guoyin-Wen
 // @match        https://pting.club/baicao*
 // @grant        none
 // @run-at       document-idle
 // @license      MIT
+// @homepageURL  https://github.com/Guoyin-Wen/baicao-founding
+// @supportURL   https://github.com/Guoyin-Wen/baicao-founding/issues
+// @updateURL    https://raw.githubusercontent.com/Guoyin-Wen/baicao-founding/main/baicao-founding.user.js
+// @downloadURL  https://raw.githubusercontent.com/Guoyin-Wen/baicao-founding/main/baicao-founding.user.js
 // ==/UserScript==
 
 (function () {
